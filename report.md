@@ -224,7 +224,6 @@ The next phase of the project will primarily focus on system design, database de
 | 13 | Testing & Validation | Functional testing, bug fixing, and system validation |
 | 14 | Prototype Demonstration | Demonstration of the complete web application |
 
-![](./developmentRoadmap.png)
 ---
 
 ## Development Roadmap
@@ -260,6 +259,7 @@ Testing & Validation
             ▼
 Final Deployment & Demonstration
 ```
+![](./developmentRoadmap.png)
 
 ---
 
