@@ -305,3 +305,109 @@ Overall, the progress achieved during Phase-I demonstrates that the project is t
 9. Connecterra B.V. *Ida Artificial Intelligence Platform for Dairy Farming.*
 
 10. FAO (Food and Agriculture Organization). *Good Practices for the Feed Industry and Sustainable Livestock Production.*
+
+
+# 9. Resources Utilized
+
+During the Phase-I reporting period, several hardware, software, research resources, and online platforms were utilized to conduct the background study, requirement analysis, and system planning of the proposed project.
+
+### Hardware Resources
+
+- Personal Laptop (Development & Documentation)
+- Stable Internet Connection
+
+### Software Resources
+
+- Visual Studio Code
+- Figma (UI/UX Planning)
+- Draw.io / diagrams.net (System Diagrams)
+- Microsoft Word
+- Microsoft PowerPoint
+- Git & GitHub (Version Control)
+- MongoDB Compass (Database Planning)
+- Postman (API Testing - Planned)
+
+### Programming Technologies
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js (MERN Stack)
+
+### Research Resources
+
+- Bangladesh Livestock Research Institute (BLRI)
+- Department of Livestock Services (DLS)
+- Bangladesh Agricultural University (BAU)
+- Food and Agriculture Organization (FAO)
+- National Research Council (NRC) Dairy Nutrition Standards
+- IEEE Xplore Digital Library
+- Google Scholar
+- ResearchGate
+
+### Existing Smart Farming Platforms Studied
+
+- Afimilk
+- smaXtec
+- CowManager
+- Allflex SenseHub
+- Connecterra
+
+# 10. Project Management and Financial Analysis
+
+## Project Management
+
+The project follows a phased Software Development Life Cycle (SDLC) approach to ensure systematic planning, implementation, testing, and deployment.
+
+### Phase-I
+- Problem Identification
+- Literature Review
+- Requirement Gathering
+- Existing System Analysis
+- Software Requirement Specification (SRS)
+
+### Phase-II
+- Database Design
+- System Architecture
+- UI/UX Design
+
+### Phase-III
+- Backend Development
+- Frontend Development
+- System Integration
+
+### Phase-IV
+- Testing
+- Validation
+- Deployment
+- Final Documentation
+
+---
+
+## Estimated Project Cost
+
+| Item | Estimated Cost (BDT) |
+|------|----------------------:|
+| Internet & Research | 1,500 |
+| Domain Name (Optional) | 1,200 |
+| Cloud Hosting (Optional) | 2,500 |
+| UI/UX Resources | 500 |
+| Transportation (Farm Visit) | 1,500 |
+| Miscellaneous | 800 |
+| **Total Estimated Cost** | **8,000 BDT** |
+
+---
+
+## Cost Optimization
+
+To minimize development costs, the following free or educational resources will be utilized:
+
+- GitHub Student Developer Pack
+- MongoDB Atlas (Free Tier)
+- Render / Railway / Vercel (Free Tier)
+- Figma Free Plan
+- Visual Studio Code
+- React.js & Node.js (Open Source)
+- Research papers from IEEE Xplore, Google Scholar, and institutional resources.
+
+As a result, the prototype can be successfully developed with minimal financial investment while maintaining professional software engineering standards.
